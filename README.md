@@ -28,7 +28,7 @@ You must have Git and Node.js (which is included with npm) installed on your mac
 
 
 #Clone this repository
-$ git clone 
+$ git clone https://github.com/umeshkumar22/RESUME-BUILDER-AlmaBetter-.git
 
 #Go into the repository
 $ cd resume-builder
